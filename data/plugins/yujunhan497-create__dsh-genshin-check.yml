@@ -1,0 +1,6 @@
+url: https://github.com/yujunhan497-create/dsh-genshin-check
+name: yujunhan497-create/dsh-genshin-check
+category: fun
+description:
+  en: Checks whether Genshin Impact is installed when a conversation starts. If it is missing, it greets the user with a joke line and opens the official site.
+  zh: 对话开始时检测本机是否安装《原神》；未安装则吐槽一句并打开原神官网。
